@@ -1,0 +1,6 @@
+{
+  "name": "Special Eye Care Project",
+  "description": "A unified clinical screening platform integrating all 10 ICMR eye care priority topics into an interactive diagnostic dashboard with AI-powered multi-modal image analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
